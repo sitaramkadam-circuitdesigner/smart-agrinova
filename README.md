@@ -16,8 +16,6 @@ ESP32 firmware for the Solar Powered Smart Agriculture (Irrigation) System. One 
 
 ## Presented by
 - Sitaram Shankar Kadam
-- Shreyash Balkrishna Kadukar
-- Gautam Parsharam Gawade
 
 ---
 
